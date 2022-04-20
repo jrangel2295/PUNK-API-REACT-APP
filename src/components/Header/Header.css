@@ -1,0 +1,11 @@
+.top {
+    height: 40px;
+    background-color: rgb(115, 67, 155);
+    margin: 10px;
+    padding: auto;
+    border-radius: 20px;
+  }
+  .top-text {
+    text-align: center;
+    font-family: verdana;
+  }
